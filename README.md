@@ -1,3 +1,3 @@
 # Kenkrik.github.io
-A random school web
-Testing github hosting
+A random school web </br>
+Testing github hosting </br>
